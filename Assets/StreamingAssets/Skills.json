@@ -1,0 +1,26 @@
+[
+	{
+		"Name":"RangeA",
+		"Damage":2,
+		"Buff":false,
+		"Range":3
+	},
+	{
+		"Name":"Average",
+		"Damage":1,
+		"Buff":false,
+		"Range":2
+	},
+	{
+		"Name":"Short",
+		"Damage":1,
+		"Buff":false,
+		"Range":1
+	},
+	{
+		"Name":"Shield",
+		"Damage":0,
+		"Buff":true,
+		"Range":0
+	}
+]
