@@ -1,19 +1,19 @@
 [
 	{
-		"Name":"RangeA",
-		"Damage":2,
+		"Name":"Conjured Lightning",
+		"Damage":1,
 		"Buff":false,
 		"Range":3
 	},
 	{
-		"Name":"Average",
+		"Name":"Land Split",
 		"Damage":1,
 		"Buff":false,
 		"Range":2
 	},
 	{
-		"Name":"Short",
-		"Damage":1,
+		"Name":"Fire Breath",
+		"Damage":2,
 		"Buff":false,
 		"Range":1
 	},
